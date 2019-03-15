@@ -1,1 +1,1 @@
-This repository contains some data augmentation functions for recent experiments run on ImageNet. An example Jupyter notebook is included for illustration.
+This repository contains some data augmentation functions for experiments run on ImageNet. An example Jupyter notebook is included for illustration. A portion of this code is adapted from a larger code base used for running the experiments.
